@@ -1,0 +1,67 @@
+*
+{
+	font-family: verdana, arial, impact, sans-serif;
+	color: rgb(10, 50, 120);
+}
+body
+{
+	background-color: rgba(230, 235, 255, 0.6);
+}
+p
+{
+	font-size: 1.1em;
+}
+h1, h2
+{
+	color: rgb(184, 140, 0);
+	text-align: center;
+	background-color: rgba(10, 50, 120, 0.15);
+	padding: 12px;
+}
+h1
+{
+	font-size: 3em;
+}
+h2
+{
+	font-size: 2em;
+	font-style: oblique;
+	font-weight: normal;
+}
+ol li
+
+a
+{
+	text-decoration: none;
+	color: rgb(184, 140, 0);
+}
+a:hover
+{
+	font-size: 1.2em;
+}
+a:active
+{
+	background-color: rgb(10, 50, 120);
+	color: white;
+}
+.menu
+{
+border: 3px rgb(184, 140, 0) solid;
+border-collapse: collapse;
+padding: 12px;
+text-align: center;
+letter-spacing: 2px;
+}
+.logo
+{
+text-align: center;
+color: rgb(184, 140, 0);
+font-weight: bold;
+font-size: 1.7em;
+letter-spacing: 4px;
+background-image: url("fond.jpg");
+padding: 48px;
+border: 3px double rgb(184, 140, 0);
+border-radius: 50%;
+box-shadow: 12px 12px 24px rgb(10, 50, 120);
+}
